@@ -1,0 +1,17 @@
+# Chapter 7 — The Bridge Protocol: Build for Many Futures
+
+A good system survives migration — of users, of time, of context.
+
+My build logic:
+
+1. Local-first.
+1. Constraint-first.
+1. Capability stacking.
+1. Distributed authority.
+1. Late collapse.
+1. Honest logging.
+1. Design for continuation.
+
+It’s stricter than morality because it has to survive physics.
+
+And if You Over Myself is real, it has to survive other people’s environments, not just mine.
